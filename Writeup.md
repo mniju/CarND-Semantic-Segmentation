@@ -2,8 +2,8 @@
 
 [//]: # (Image References)
 
-[image1]: ./output/Sample1.png "Sample1"
-[image2]: ./output/Sample2.png "Sample2"
+[image1]: https://github.com/mniju/CarND-Semantic-Segmentation/blob/master/Output/Sample1.png "Sample1"
+[image2]: https://github.com/mniju/CarND-Semantic-Segmentation/blob/master/Output/Sample2.png "Sample2"
 [image3]: https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/05d20ad124a8696f387e6c9632dec0b31251df64/3-Figure3-1.png "Architecture"
 [image4]: https://qph.ec.quoracdn.net/main-qimg-2f67065ea45f75188c09e110252408c3
 [image5]: ./writeup/original.png "Sample Image"
@@ -40,4 +40,5 @@ I reached a validation loss around 0.03.
 As seen this gives some reasonable output.This may not be the best yet though.
 May be some additional epochs should be run and then IOU should be calculated to determine how well the network performs.
 
+I took inspiration from two wonderful guys [Lukaz](https://github.com/ljanyst) and [Levin](https://github.com/LevinJ)
 
